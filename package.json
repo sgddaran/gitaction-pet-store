@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
+	"build": "echo build",
     "start": "nodemon index.js"
   },
   "author": "Rajan",
